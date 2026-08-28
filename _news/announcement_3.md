@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[CHITRA](https://chitra.bioinformaticsonline.com/): Visualizing Chromosomal Rearrangements ! :sparkles: :smile:
+[CHITRA in out now !](https://chitra.bioinformaticsonline.com/): Visualizing Chromosomal Rearrangements ! :sparkles: :smile:
