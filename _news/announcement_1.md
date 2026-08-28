@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Azole-Resistant Candida tropicalis work is out now in mBio !
+Our work on an Indian azole-resistant Candida tropicalis lineage is now out in [mBio](https://pmc.ncbi.nlm.nih.gov/articles/PMC13059750/)!
