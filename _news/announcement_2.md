@@ -1,33 +1,25 @@
 ---
 layout: post
-title: A long announcement with details
+title: getENRICH - Turning Gene Lists into Biological Stories
 date: 2015-11-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+getENRICH: Turning Gene Lists into Biological Stories
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+In genomics, obtaining a list of genes is often just the beginning. The real challenge is understanding what those genes are doing and how they work together. Gene enrichment analysis helps researchers connect individual genes to broader biological processes and pathways—but this can be challenging, particularly when working with non-model organisms.
 
-#### Hipster list
+To address this challenge, we developed getENRICH, a web-based bioinformatics platform at JitendraLab, CSIR-IGIB, designed to make gene enrichment analysis simpler, faster, and more accessible.
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+getENRICH brings together Gene Ontology (GO) and KEGG pathway enrichment, allowing researchers to explore Biological Processes, Molecular Functions, Cellular Components, and metabolic or biological pathways associated with their gene sets. The platform also provides intuitive visualizations that help turn complex enrichment results into an easy-to-understand biological story.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+One of the important features of getENRICH is its support for non-model organisms and customized annotations. This makes it particularly useful for researchers working in microbial genomics, pathogen genomics, comparative genomics, transcriptomics, and studies of newly sequenced organisms where standard annotation resources may be limited.
 
----
+Whether starting with a small gene list or a large genomic dataset, getENRICH provides a streamlined workflow from genes → functions → pathways → biological insights.
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Our aim is simple: to help researchers spend less time navigating multiple bioinformatics tools and more time understanding the biology behind their data.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Explore [getENRICH](https://getenrich.igib.res.in/)
