@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.igib.res.in'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.igib.res.in'>Affiliations</a>. CSIR-IGIB, Mall Road, Delhi, India
 
 profile:
   align: right
